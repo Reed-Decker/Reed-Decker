@@ -4,7 +4,7 @@
 
 ### Data Projects
 
-[Causes of Mortality from 1999-2016](https://reed-decker.github.io/mortality_analysis/)
+[Causes of Mortality from 1999-2016](/mortality_analysis/)
 <img src="images/mortality_thumbnail.png?raw=true"/>
 
 ---
